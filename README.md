@@ -1,3 +1,3 @@
 # TestRepo
 # adding something to merge
-#adding somethign else
+# adding something else

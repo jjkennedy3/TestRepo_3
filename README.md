@@ -2,4 +2,4 @@
 # adding something to merge
 # adding something else
 
-[test link](ipfs://myipfshash)
+[test link](http://myipfshash)

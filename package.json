@@ -1,0 +1,11 @@
+{
+  "name": "test dependency",
+  "version": "1.0.0",
+  "dependencies": {
+    "asn1": {
+      "version": "0.2.3",
+      "resolved": "https://registry.npmjs.org/asn1/-/asn1-0.2.3.tgz",
+      "integrity": "sha-2sh4dxPJlmhJ/IGAd36+nB3f04Y="
+    }
+  }
+}

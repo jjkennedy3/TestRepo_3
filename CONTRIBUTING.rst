@@ -1,6 +1,5 @@
-- test
+- test::
 
+    .. code-block:: python
+        AWS_ACCESS_KEY=XXXXXX
 
-.. code-block:: python
-    AWS_ACCESS_KEY=XXXXXX
-```

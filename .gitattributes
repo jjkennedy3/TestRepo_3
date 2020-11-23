@@ -1,2 +1,2 @@
 *.* linguist-language=Java
-*.strings linguist-language=Swift
+*.strings diff=localizablestrings

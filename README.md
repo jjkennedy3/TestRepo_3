@@ -3,6 +3,7 @@
 # adding something else
 
 # add more
+## checking commit name
 
 ### Adding more and more
 

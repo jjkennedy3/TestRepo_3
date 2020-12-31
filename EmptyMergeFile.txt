@@ -1,1 +1,3 @@
 This is a file that will be merged initially, then the PR reopened and merged again.
+
+The next change for an empty merge

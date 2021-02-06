@@ -54,3 +54,5 @@ break this line in the "raw" text box but it be rendered on one line in the outp
 
 small commit
 test add with space in user.name
+
+Testing what happens if a branch is renamed with an open PR

@@ -54,3 +54,8 @@ break this line in the "raw" text box but it be rendered on one line in the outp
 
 small commit
 test add with space in user.name
+
+
+### Testing Stats
+
+[![jj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjkennedy3)]

@@ -10,3 +10,6 @@ puts "this is a tab test"
 #6. validate tab spacing is still set correctly
 
 # make an edit below this to validate changes persist
+
+puts "second change to validate tab persists"
+	#results: tab settings persisted

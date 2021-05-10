@@ -59,3 +59,9 @@ test add with space in user.name
 ### Testing Stats
 
 [![jj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjkennedy3)](https://github.com/jjkennedy3)
+
+Test for external link in mobile
+
+https://github.com/jjkennedy3/TestRepo/issues/55
+
+[issue 55](https://github.com/jjkennedy3/TestRepo/issues/55)

@@ -21,4 +21,4 @@ node_modules/
 *.log
 *.sql
 *.sqlite
-*.tst
+*.test

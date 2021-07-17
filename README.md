@@ -6,6 +6,7 @@
 ## checking commit name
 ## another check
 ## final check hopefully
+change 2
 
 ### Adding more and more
 
@@ -17,6 +18,7 @@
 
 small change
 more small changes
+
 
 
 * [differentiation](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/functions/D.md), [integration](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/functions/Integrate.md), [equation solving](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/functions/Solve.md), [linear algebra](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/linear-algebra.md), [number theory](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/number-theoretic-functions.md), [combinatorial](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/combinatorial.md), [logic](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/logic.md) and polynomial functions...
@@ -53,3 +55,17 @@ break this line in the "raw" text box but it be rendered on one line in the outp
 
 small commit
 test add with space in user.name
+
+
+### Testing Stats
+
+[![jj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjkennedy3)](https://github.com/jjkennedy3)
+
+Test for external link in mobile
+
+https://github.com/jjkennedy3/TestRepo/issues/55
+
+[issue 55](https://github.com/jjkennedy3/TestRepo/issues/55)
+
+[link to sub folder](./test_folder/test_file.txt)
+

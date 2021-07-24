@@ -1,1 +1,3 @@
-*.* linguist-language=Java
+*.* linguist-language=TypeScript
+*.strings diff=localizablestrings
+

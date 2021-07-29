@@ -1,3 +1,4 @@
 *.* linguist-language=TypeScript
 *.strings diff=localizablestrings
+*.nodiff linguist-generated=true
 

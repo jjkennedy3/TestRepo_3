@@ -474,8 +474,8 @@
        style="fill:red;filter:url(#filter12)"
        transform="matrix(.25,0,0,.25,0,0)"
        id="rect36"
-       width="400"
-       height="400"
+       width="200"
+       height="200"
        x="4800"
        y="4800" />
 

@@ -71,3 +71,6 @@ https://github.com/jjkennedy3/TestRepo/issues/55
 
 commit
                                                                                              commit to test for missing head
+                                                                                             
+                                                                                           
+![test image](https://github.com/jjkennedy3/TestRepo/blob/master/gaussian1.svg?label=SomeLabel&message=SomeMessage&color=blue)

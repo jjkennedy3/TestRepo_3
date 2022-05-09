@@ -1,36 +1,3 @@
 **/test_folder/* @jjkennedy3
 DevOps_*    @jjkennedy3
 
-* @sreeram-v
-
-# Store module
-/app/js/store/** @ashutosh-tiwari02 @tamilvanan-raja @prateek-sahu03
-
-# UI module
-/app/js/ui/** @saran-n @yashesh-chauhan @prabha-kandikonda
-
-# Auth module
-/app/java/auth/** @aakash-sorathiya @yashesh-chauhan @prabhat-bajpai
-
-# GraphQL API module
-/app/java/graphql-api/** @aakash-sorathiya @yashesh-chauhan @prabhat-bajpai
-
-# IKS NLU module
-/app/python/iks-nlu @saran-n @ananay-bakshi @omij-mangukiya
-
-# GraphQL Query generator module
-/app/python/graphql-query-generator @saran-n @ananay-bakshi @omij-mangukiya
-
-# Algo server module
-/app/python/algo-server @saran-n @ananay-bakshi @omij-mangukiya
-
-# Deep learning module
-/app/python/graph-deep-learning @ananthavinayaka-k @gagan-gayari @poloju-sandeep
-
-# Link prediction module
-/app/python/link-prediction @ananthavinayaka-k @gagan-gayari @poloju-sandeep
-
-# DevOps
-Dockerfile @harshini-nerella @vipul.parnerkar
-/kubernetes/ @harshini-nerella @vipul.parnerkar
-

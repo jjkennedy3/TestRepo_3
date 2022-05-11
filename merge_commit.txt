@@ -1,0 +1,3 @@
+commit one for merge commit
+commit 2
+commit 3

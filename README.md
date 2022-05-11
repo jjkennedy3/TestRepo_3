@@ -53,6 +53,7 @@ break this line in the "raw" text box but it be rendered on one line in the outp
 `So I should be able to
 break this line in the "raw" text box but it be rendered on one line in the output.`
 
+
 small commit
 test add with space in user.name
 
@@ -74,3 +75,5 @@ commit
                                                                                              
                                                                                            
 ![test image](https://github.com/jjkennedy3/TestRepo/blob/master/gaussian1.svg?label=SomeLabel&message=SomeMessage&color=blue)
+
+small update for a release test

@@ -1,0 +1,3 @@
+1. Create a commit or two
+2. create pull request
+3. attmept to rebase

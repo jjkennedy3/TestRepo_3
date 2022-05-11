@@ -5,3 +5,7 @@ commit two
 commit three
 
 commit 4 and will not squash
+
+attempting a squash with multiple commits and require signed commits.
+Commit 2 for test
+commit 3

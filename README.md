@@ -21,6 +21,10 @@ more small changes
 
 
 
+* [differentiation](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/functions/D.md), [integration](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/functions/Integrate.md), [equation solving](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/functions/Solve.md), [linear algebra](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/linear-algebra.md), [number theory](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/number-theoretic-functions.md), [combinatorial](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/combinatorial.md), [logic](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/03-comparisons-and-boolean-logic.md) and polynomial functions...
+* a general purpose [Term Rewriting System and Pattern Matching engine](symja_android_library/doc/07-functions-and-patterns.md)
+
+
 * [differentiation](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/functions/D.md), [integration](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/functions/Integrate.md), [equation solving](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/functions/Solve.md), [linear algebra](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/linear-algebra.md), [number theory](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/number-theoretic-functions.md), [combinatorial](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/combinatorial.md), [logic](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/logic.md) and polynomial functions...
 * a general purpose [Term Rewriting System and Pattern Matching engine](symja_android_library/doc/functions-and-patterns.md)
 
@@ -77,4 +81,6 @@ commit
 ![test image](https://github.com/jjkennedy3/TestRepo/blob/master/gaussian1.svg?label=SomeLabel&message=SomeMessage&color=blue)
 
 small update for a release test
+
 email test
+

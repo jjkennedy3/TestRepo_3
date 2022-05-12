@@ -77,3 +77,4 @@ commit
 ![test image](https://github.com/jjkennedy3/TestRepo/blob/master/gaussian1.svg?label=SomeLabel&message=SomeMessage&color=blue)
 
 small update for a release test
+email test

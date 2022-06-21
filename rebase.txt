@@ -7,3 +7,5 @@ Second commit
 attmept with enforce for admins on
 
 making a change to dismiss review
+
+Add a change to sign commit from git command line push

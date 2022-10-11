@@ -1,4 +1,6 @@
 *.* linguist-language=TypeScript
 *.strings diff=localizablestrings
 *.nodiff linguist-generated=true
+*.sql diff
+*.sql text working-tree-encoding=UTF-16LE eol=CRLF
 

@@ -1,4 +1,5 @@
-  {
+```geojson
+{
     "type": "Topology",
     "objects": {
         "collection": {
@@ -14,3 +15,4 @@
         }
     }
 }
+```

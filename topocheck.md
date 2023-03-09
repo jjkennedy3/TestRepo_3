@@ -1,4 +1,4 @@
-```geojson
+```topojson
 {
     "type": "Topology",
     "objects": {

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is to override browser formatting; see server.conf[httpServer] to disable. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .-->
+<?xml-stylesheet type="text/xml" href="/static/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:s="http://dev.splunk.com/ns/rest">
+  <title>splunkd</title>
+  <id>https://splunkazure-api.service.azure-eastus.github.net/</id>
+  <updated>2023-03-06T10:01:55-08:00</updated>
+  <generator build="82c987350fde" version="9.0.1"/>
+  <author>
+    <name>Splunk</name>
+  </author>
+  <entry>
+    <title>rpc</title>
+    <id>https://splunkazure-api.service.azure-eastus.github.net/rpc</id>
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <link href="/rpc" rel="alternate"/>
+  </entry>
+  <entry>
+    <title>services</title>
+    <id>https://splunkazure-api.service.azure-eastus.github.net/services</id>
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <link href="/services" rel="alternate"/>
+  </entry>
+  <entry>
+    <title>servicesNS</title>
+    <id>https://splunkazure-api.service.azure-eastus.github.net/servicesNS</id>
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <link href="/servicesNS" rel="alternate"/>
+  </entry>
+  <entry>
+    <title>static</title>
+    <id>https://splunkazure-api.service.azure-eastus.github.net/static</id>
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <link href="/static" rel="alternate"/>
+  </entry>
+</feed>
